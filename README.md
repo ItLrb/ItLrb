@@ -24,7 +24,7 @@
 ##
 
 ### Others
-#### UI / UX Designer
+#### UI / UX Designer ✍
 ##
 
 
