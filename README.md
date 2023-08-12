@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**ItLrb/ItLrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, meu nome é Italo Roberto 🐱‍👤
+#### Hello, my name is Italo Roberto 🐱‍🏍
+##
+#### My LinkedIn
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italo-roberto-a4921b278/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+
+![Italo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItLrb&show_icons=true&theme=dracula)
+
+
+## Experiências / Experiences 🔱
+
+<div style="display: inline-block"><br/>
+    <img align="center" alt="Html5" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> Html5 -/-
+    <img align="center" alt="Css3" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> Css3 -/-
+    <img align="center" alt="JavaScript" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> JavaScript -/-
+    <img align="center" alt="Bootstrap" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> Bootstrap -/-
+    <img align="center" alt="TailwindCss" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/> Tailwind Css 
+</div><br/>
+
+##
+
+### Others
+#### UI / UX Designer
+##
+
+
