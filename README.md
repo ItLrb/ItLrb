@@ -1,6 +1,5 @@
 
-###### Colossenses 3:23
-###### "Em tudo que fizerem, trabalhem de bom ânimo, como se fosse para o Senhor, e não para os homens." ✝
+###### "Jesus in my front." ✝
 ### Olá, meu nome é Italo Roberto 🐱‍👤
 #### Hello, my name is Italo Roberto 🐱‍🏍
 ##
@@ -29,4 +28,4 @@
 #### UI / UX Designer ✍
 ##
 
-
+##### Salmos 91
