@@ -1,7 +1,7 @@
 
 ###### "Jesus in my front." ✝
-### Olá, meu nome é Italo Roberto 🐱‍👤
-#### Hello, my name is Italo Roberto 🐱‍🏍
+### Olá, meu nome é Italo 🐱‍👤
+#### Hello, my name is Italo 🐱‍🏍
 ##
 #### My LinkedIn
 
