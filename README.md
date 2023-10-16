@@ -9,7 +9,7 @@
 
 ## Stats
 
-![Italo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItLrb&show_icons=true&theme=celestial)
+![Italo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItLrb&show_icons=true&theme=dracula)
 
 
 ## Experiências / Experiences 🔱
