@@ -15,11 +15,11 @@
 ## Experiências / Experiences 🔱
 
 <div style="display: inline-block"><br/>
-    <img align="center" alt="Html5" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> Html5 <br>
-    <img align="center" alt="Css3" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> Css3 -+-
-    <img align="center" alt="JavaScript" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> JavaScript -+-
-    <img align="center" alt="Bootstrap" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> Bootstrap -+-
-    <img align="center" alt="TailwindCss" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/> Tailwind Css -+-
+    <img align="center" alt="Html5" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> HTML5 <br>
+    <img align="center" alt="Css3" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS3 -->
+    <img align="center" alt="Bootstrap" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> Bootstrap /
+    <img align="center" alt="TailwindCss" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/> Tailwind Css <br>
+    <img align="center" alt="JavaScript" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> JavaScript <br>
     <img align="center" alt="PHP" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> PHP
 </div><br/>
 
