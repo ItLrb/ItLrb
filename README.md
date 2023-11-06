@@ -19,7 +19,7 @@
     <img align="center" alt="Css3" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS3 --FrameWorks-->
     <img align="center" alt="Bootstrap" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> Bootstrap /
     <img align="center" alt="TailwindCss" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/> Tailwind Css <br>
-    <img align="center" alt="JavaScript" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> JavaScript
+    <img align="center" alt="JavaScript" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> JavaScript --Library-->
     <img align="center" alt="JavaScript" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> ReactJs <br>
     <img align="center" alt="PHP" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> PHP <br>
     <img align="center" alt="JavaScript" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> MySQL
