@@ -29,7 +29,7 @@
 ### Others
 
 <div style="display: inline-block"> <br/>
-    <img align="center" alt="Figma" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> Figma <br>
+    <img align="center" alt="Figma" width="25px" height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> Figma <br>
     ✍ UI / UX Designer <br>
     📢 Inglês
 </div> <br/>
