@@ -27,7 +27,11 @@
 ##
 
 ### Others
-#### UI / UX Designer ✍
+#### ✍ UI / UX Designer
+<div style="display: inline-block"> <br/>
+    <img align="center" alt="Figma" width="15px" height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> Figma <br>
+</div>
+#### 📢 Inglês
 ##
 
 ##### Salmos 91
