@@ -9,7 +9,7 @@
 ### Experiências / Experiences 🔱
 
 <h3>Linguagem de Marcação/Estilização</h3>
-<div style="display: flex"><br/>
+<div style="display: flex">
     <img align="center" alt="Html5" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> HTML5
     <img align="center" alt="Css3" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS3
 </div>
