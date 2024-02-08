@@ -6,7 +6,7 @@
 ![Italo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItLrb&show_icons=true&theme=dracula)
 
 ##
-### Experiências / Experiences 🔱
+# Experiências / Experiences 🔱
 
 <p>Linguagem de Marcação/Estilização:</p>
 <div style="display: flex">
