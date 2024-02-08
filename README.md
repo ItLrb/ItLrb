@@ -17,7 +17,7 @@
 <div style="display: flex">
     <img align="center" alt="JavaScript" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <b>JavaScript</b> <br/>
     <img align="center" alt="PHP" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> <b>PHP</b> <br/>
-    <img align="center" alt="Csharp" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> <b>C#</b>
+    <img align="center" alt="Csharp" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> <b>Csharp</b>
 </div>
 <h4>Frameworks e Bibliotecas:</h4>
 <div style="display: flex">
