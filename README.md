@@ -8,7 +8,7 @@
 ##
 ### Experiências / Experiences 🔱
 
-<h4>Linguagem de Marcação/Estilização</h4>
+<p>Linguagem de Marcação/Estilização:</p>
 <div style="display: flex">
     <img align="center" alt="Html5" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> HTML5 <br/>
     <img align="center" alt="Css3" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS3
