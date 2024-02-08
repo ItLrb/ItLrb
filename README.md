@@ -1,4 +1,4 @@
-### <h1 style="display: flex; justify-content: center; text-align: center;">Olá, Bem vindo ao meu GitHub 🐱‍👤</h1>
+### <h1 style="display: flex; justify-content: center; text-align: center; width: 100vw;">Olá, Bem vindo ao meu GitHub 🐱‍👤</h1>
 
 
 ## Stats
