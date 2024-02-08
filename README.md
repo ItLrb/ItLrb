@@ -1,7 +1,7 @@
-### Olá, Bem vindo ao meu GitHub 🐱‍👤
+#### Olá, Bem vindo ao meu GitHub 🐱‍👤
 
 
-## Stats
+### Stats
 
 ![Italo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItLrb&show_icons=true&theme=dracula)
 
