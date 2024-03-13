@@ -6,28 +6,14 @@
 ![Italo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItLrb&show_icons=true&theme=dracula)
 
 
-# Experiences 🔱
+# Stacks 🔱
 
-<h4>Markup/Style Languages:</h4>
-<div style="display: flex">
-    <img align="center" alt="Html5" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <b>HTML5</b> <br/>
-    <img align="center" alt="Css3" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <b>CSS3</b>
-</div>
-<h4>Programming Languages:</h4>
-<div style="display: flex">
-    <img align="center" alt="JavaScript" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <b>JavaScript</b> <br/>
-    <img align="center" alt="PHP" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> <b>PHP</b> <br/>
-    <img align="center" alt="Csharp" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> <b>Csharp</b>
-</div>
-<h4>Frameworks & Library:</h4>
-<div style="display: flex">
-    <img align="center" alt="JavaScript" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> <b>ReactJs</b> <br/>
-    <img align="center" alt="Bootstrap" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> <b>Bootstrap</b> <br/>
-    <img align="center" alt="TailwindCss" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/> <b>Tailwind Css</b>
-</div>
-<h4>DataBase:</h4>
-<div style="display: flex">
-    <img align="center" alt="JavaScript" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> <b>MySQL</b>
+<div style="display: flex"> <br/>
+    <img align="center" alt="Csharp" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> <b>Csharp</b> <br/>
+    <img align="center" alt=".Net Core" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" /> <b>.NET Core</b> <br/>
+    <img align="center" alt="Sql" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> <b>Sql</b> <br/>
+    <img align="center" alt="MySql" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> <b>MySQL</b> <br/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> <b>Git</b>
 </div>
 
 ##
