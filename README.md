@@ -13,7 +13,7 @@
     <img align="center" alt=".Net Core" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" /> <b>.NET Core</b> <br/>
     <img align="center" alt="Sql" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> <b>Sql</b> <br/>
     <img align="center" alt="MySql" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> <b>MySQL</b> <br/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> <b>Git</b>
+    <img align="center" alt="Git" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> <b>Git</b>
 </div>
 
 ##
