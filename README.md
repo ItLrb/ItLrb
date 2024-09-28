@@ -1,5 +1,4 @@
 <h2>Hello, welcome to my GitHub 🐱‍👤</h2>
-<h4>Filipenses 4:11–13</h4>
 
 ### Stats
 
@@ -26,4 +25,4 @@
 </div> <br/>
 
 
-
+##### Filipenses 4:11–13
