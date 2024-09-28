@@ -21,8 +21,9 @@
 
 <div style="display: inline-block"> <br/>
     <img align="center" alt="Javascript" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <b>Javascript</b><br/>
-    <img align="center" alt="Html" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img align="center" alt="Css" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img align="center" alt="Html" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <b>Html</b><br/>
+    <img align="center" alt="Css" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> <b>Css</b><br/>
+    <img align="center" alt="ReactJs" width="30px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> <b>ReactJs</b><br/>
     📢 English & Spanish
 </div> <br/>
 
