@@ -1,7 +1,7 @@
 <h2>Hello, welcome to my GitHub 🐱‍👤</h2>
 
 ### A small presentation <br/>
-I am a .NET DEV who is 18 years old and uses windows <br/>
+<b>I am a .NET DEV who is 18 years old and uses windows</b> <br/>
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql&theme=dark)](https://skillicons.dev)
 # 📊 GitHub Stats:
