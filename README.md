@@ -12,12 +12,10 @@ I am a .NET DEV who is 18 years old and uses windows <br/>
 ### Others
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,elasticsearch&theme=dark)](https://skillicons.dev)
-
+##### Filipenses 4:11–13
 
 <p align="center" style="display: flex">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows" />
   </a>
 </p>
-
-##### Filipenses 4:11–13
