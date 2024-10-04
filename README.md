@@ -1,7 +1,7 @@
 <h2>Hello, welcome to my GitHub 🐱‍👤</h2>
 
 A small presentation
-I am a .NET DEV who is 18 years old and uses windows [![My Skills](https://skillicons.dev/icons?i=windows&theme=dark)](https://skillicons.dev)
+I am a .NET DEV who is 18 years old and uses windows [![My Skills](https://skillicons.dev/icons?i=windows&theme=dark)](https://skillicons.dev) <br/>
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nodejs,mysql&theme=dark)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ItLrb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
