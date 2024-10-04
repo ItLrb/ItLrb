@@ -12,7 +12,7 @@
 ### Others
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,elasticsearch&theme=dark)](https://skillicons.dev)
-##### Filipenses 4:11–13
+##### Philippians 4:11–13
 
 <p align="center" style="display: flex">
   <a href="https://skillicons.dev">
