@@ -1,6 +1,5 @@
 <p align="center" style="display: flex">
   <a href="https://skillicons.dev">
-    <h3>A windows user</h3>
     <img src="https://skillicons.dev/icons?i=windows" />
   </a>
 </p>
