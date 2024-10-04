@@ -1,7 +1,13 @@
+<p align="center">
+  <a href="https://skillicons.dev">
+    <h3>A windows user</h3>
+    <img src="https://skillicons.dev/icons?i=windows" />
+  </a>
+</p>
 <h2>Hello, welcome to my GitHub 🐱‍👤</h2>
 
 A small presentation
-I am a .NET DEV who is 18 years old and uses windows [![My Skills](https://skillicons.dev/icons?i=windows&theme=dark)](https://skillicons.dev) <br/>
+I am a .NET DEV who is 18 years old and uses windows <br/>
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nodejs,mysql&theme=dark)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ItLrb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
