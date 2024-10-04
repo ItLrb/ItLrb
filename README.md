@@ -11,7 +11,7 @@ I am a .NET DEV who is 18 years old and uses windows <br/>
 
 ### Others
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,windows&theme=dark&perline=5)](https://skillicons.dev)
 
 📢 English & Spanish
 
