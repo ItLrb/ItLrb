@@ -1,8 +1,3 @@
-<p align="center" style="display: flex">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows" />
-  </a>
-</p>
 <h2>Hello, welcome to my GitHub 🐱‍👤</h2>
 
 ### A small presentation <br/>
@@ -20,5 +15,10 @@ I am a .NET DEV who is 18 years old and uses windows <br/>
 
 📢 English & Spanish
 
+<p align="center" style="display: flex">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows" />
+  </a>
+</p>
 
 ##### Filipenses 4:11–13
