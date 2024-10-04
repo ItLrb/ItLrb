@@ -14,7 +14,7 @@ I am a .NET DEV who is 18 years old and uses windows <br/>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git&theme=dark)](https://skillicons.dev)
 
 
-<p align="center" display="flex">
+<p align="center" style="display: flex">
   <a href="https://skillicons.dev">
     <p>📢 English & Spanish</p>
     <img src="https://skillicons.dev/icons?i=windows" />
