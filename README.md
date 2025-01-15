@@ -7,12 +7,14 @@
 
 <details>
   <summary> 📊 GitHub Stats:</summary>
+  
   ![](https://github-readme-stats.vercel.app/api?username=ItLrb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ItLrb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </details>
 
 <details>
   <summary> Others</summary>
+  
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,elasticsearch&theme=dark)](https://skillicons.dev)
 </details>
 
