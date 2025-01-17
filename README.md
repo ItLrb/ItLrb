@@ -13,7 +13,7 @@
 </details>
 
 <details>
-  <summary> Others Stacks</summary>
+  <summary> 🧮 Others Stacks</summary>
   
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,elasticsearch&theme=dark)](https://skillicons.dev)
 </details>
