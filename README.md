@@ -1,7 +1,7 @@
 <h2>Hello, welcome to my GitHub 🐱‍👤</h2>
 
 ### A small presentation <br/>
-<b>I am a .NET FullStack Dev, studying C#/ASP.NET and much more for approximately 2 years, currently I do not work but I am looking for a job in the area. </b> <br/>
+<b>I am a .NET FullStack Dev, studying C#/ASP.NET and much more for 2 years, currently I do not work but I am looking for a job in the area. </b> <br/>
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql&theme=dark)](https://skillicons.dev)
 
