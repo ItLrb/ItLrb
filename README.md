@@ -7,8 +7,8 @@
 
 <details>
   <summary> 📊 GitHub Stats:</summary>
-  
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ItLrb)](https://github.com/stats-organization/github-stats-extended)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ItLrb&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=ItLrb&include_all_commits=true&theme=github_dark)  
 </details>
 
 <details>
