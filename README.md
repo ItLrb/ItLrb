@@ -3,7 +3,7 @@
 ### A small presentation <br/>
 <b>I am a .NET FullStack Dev, studying C#/ASP.NET and much more for 3 years, currently I do not work but I am looking for a job in the area. </b> <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql&,docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql,docker&theme=dark)](https://skillicons.dev)
 
 <details>
   <summary> 📊 GitHub Stats:</summary>
