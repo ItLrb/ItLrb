@@ -8,9 +8,7 @@
 <details>
   <summary> 📊 GitHub Stats:</summary>
   
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
-  ![](https://github-readme-stats.vercel.app/api?username=ItLrb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ItLrb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ItLrb)](https://github.com/stats-organization/github-stats-extended)
 </details>
 
 <details>
