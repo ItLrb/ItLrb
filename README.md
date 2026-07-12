@@ -1,4 +1,3 @@
- Hello, welcome to my GitHub 🐱‍👤
 <h1>Italo Roberto</h1>
 
 ### A small presentation <br/>
@@ -19,6 +18,8 @@
   
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,elasticsearch&theme=dark)](https://skillicons.dev)
 </details>
+
+</br>
 
 ##### Philippians 4:11–13
 
