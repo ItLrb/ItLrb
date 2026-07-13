@@ -1,7 +1,7 @@
 <h1>Italo Roberto</h1>
 
 ### A small presentation <br/>
-<b>I am a .NET FullStack Dev, studying C#/ASP.NET and much more for 3 years, I am comfortable building systems primarily in C# / .NET, while also utilizing some of the stacks listed below. </b> <br/>
+<b>I am a .NET Backend Dev, I work with C#/ASP.NET and much more for 3 years, I am comfortable building systems primarily in C# / .NET, while also utilizing some of the stacks listed below. </b> <br/>
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgresql,docker,redis&theme=dark)](https://skillicons.dev)
 
